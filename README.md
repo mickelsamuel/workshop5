@@ -4,6 +4,14 @@ This is a minimal Flask service deployed to Google Cloud Run using GitHub Action
 
 **Pipeline:** GitHub → Actions → Cloud Build → Deploy to Cloud Run
 
+## Live Deployment
+
+🌐 **Live Service URL:** https://workshop5-e46i7fiqiq-uc.a.run.app
+
+📦 **GCP Project ID:** workshop5-476515
+
+🔄 **Status:** Deployed and running on Google Cloud Run
+
 ## Prerequisites
 - Google Cloud account with billing enabled
 - Google Cloud CLI installed locally
